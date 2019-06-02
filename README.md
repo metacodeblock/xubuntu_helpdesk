@@ -1,5 +1,6 @@
-# xubuntu_helpdesk
+# xubuntu_helpdesk  [https://realyvirt.github.io/xubuntu_helpdesk/]
 About Xubuntu (some tip &amp; tricks) [Некоторые советы по настройке Xubuntu]
+
 
 
 **1. Замена загрузочного фона и логотипа Xubuntu штатными средствами (актуально на июнь 2019г.)**
